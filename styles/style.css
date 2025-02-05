@@ -180,7 +180,6 @@ input[type="checkbox"]:checked + span {
 }
 
 .button {
-  font-weight: 700;
   padding: 6px 74px;
   border: 1px solid #fff;
   background-color: transparent;
