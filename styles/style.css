@@ -155,7 +155,7 @@ ol {
   outline-offset: 1px;
 }
 
-.search-form__fieldset:has(.search-form__checkbox){
+.search-form__fieldset:has(.search-form__checkbox) {
   margin-bottom: 5px;
 }
 
